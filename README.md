@@ -4,4 +4,4 @@ Udemy Course Repository - Complete Git Guide Course: Understand and master Git a
 Course Link
 https://www.udemy.com/course/git-and-github-complete-guide/
 
-This file was modified locally
+This line was modified manually during conflicts resolution
